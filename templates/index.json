@@ -317,6 +317,18 @@
         "Subheading": "Shop by",
         "heading": "Category"
       }
+    },
+    "custom_tab_with_images_x3AUEE": {
+      "type": "custom-tab-with-images",
+      "settings": {
+        "first_image": "shopify://shop_images/Montana_Home_23_24_Tekla_Severin_Acacia_Camomile_Rosehip_Ruby_02_H.webp",
+        "second_image": "shopify://shop_images/panton_1_1.webp",
+        "third_image": "shopify://shop_images/elissa-alvar-aalto-1960s-b6bbfb-1024.webp",
+        "title": "Shop Iconic Designs",
+        "subtitle": "",
+        "padding_top": 50,
+        "padding_bottom": 50
+      }
     }
   },
   "order": [
@@ -326,6 +338,7 @@
     "section_text_row_mfcKfP",
     "section_hero_mGAhnA",
     "section_collection_zGjLh7",
-    "magazine_style_collection_grid_jRLKLE"
+    "magazine_style_collection_grid_jRLKLE",
+    "custom_tab_with_images_x3AUEE"
   ]
 }
