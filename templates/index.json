@@ -374,6 +374,69 @@
         "padding_top": 50,
         "padding_bottom": 50
       }
+    },
+    "section_double_jQyq8h": {
+      "type": "section-double",
+      "blocks": {
+        "subheading_YM6tGc": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "Teak New York Trade Program",
+            "text_size": 3,
+            "padding_bottom": 16
+          }
+        },
+        "heading_rr78pN": {
+          "type": "heading",
+          "settings": {
+            "title": "Elevate Your Projects with Exclusive Benefits",
+            "text_size": 5,
+            "padding_bottom": 16
+          }
+        },
+        "text_qWWdBj": {
+          "type": "text",
+          "settings": {
+            "text": "<p>As a design professional, you deserve more. Enjoy exclusive discounts, priority service, and more!</p>",
+            "text_size": 4,
+            "text_style": "font-body",
+            "padding_bottom": 16
+          }
+        },
+        "buttons_APezz9": {
+          "type": "buttons",
+          "settings": {
+            "button_text": "Join now",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false,
+            "padding_bottom": 16
+          }
+        }
+      },
+      "block_order": [
+        "subheading_YM6tGc",
+        "heading_rr78pN",
+        "text_qWWdBj",
+        "buttons_APezz9"
+      ],
+      "settings": {
+        "layout": "is-reversed",
+        "height": "image-height",
+        "mobile_height": "screen-height-one-half--mobile",
+        "width": "wrapper--full",
+        "image_1": "shopify://shop_images/montana_office_breakoutarea_co16_plantbox_jwtable_guest_w.webp",
+        "image_width": "one-half",
+        "text_alignment": "text-left",
+        "reverse_blocks": false,
+        "bg_color": "rgba(0,0,0,0)",
+        "color": "",
+        "show_placeholder": true,
+        "padding_top": 0,
+        "padding_bottom": 50
+      }
     }
   },
   "order": [
@@ -385,6 +448,7 @@
     "section_collection_zGjLh7",
     "magazine_style_collection_grid_jRLKLE",
     "section_hero_8VhgHL",
-    "custom_tab_with_images_x3AUEE"
+    "custom_tab_with_images_x3AUEE",
+    "section_double_jQyq8h"
   ]
 }
