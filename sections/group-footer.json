@@ -79,7 +79,9 @@
       "custom_css": [
         "footer {background-color: black; color: white;}",
         ".footer__quicklinks a {color: white;}",
-        "#Newsletter--newsletter_ebHMk3 .input-group {background-color: white; padding: 0.5rem; border-radius: 16px;}"
+        "#Newsletter--newsletter_ebHMk3 .input-group {background-color: white; padding: 0.5rem; border-radius: 16px;}",
+        ".footer__block--newsletter {display: flex; justify-content: center;}",
+        ".footer__newsletter__wrapper {display: flex; flex-direction: column; justify-content: center; align-items: center;}"
       ],
       "settings": {
         "logo": "{{ shop.brand.logo }}",
