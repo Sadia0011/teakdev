@@ -78,7 +78,8 @@
       ],
       "custom_css": [
         "footer {background-color: black; color: white;}",
-        ".footer__quicklinks a{color: white;}"
+        ".footer__quicklinks a {color: white;}",
+        "#Newsletter--newsletter_ebHMk3 .input-group {background-color: white; padding: 0.5rem; border-radius: 16px;}"
       ],
       "settings": {
         "logo": "{{ shop.brand.logo }}",
