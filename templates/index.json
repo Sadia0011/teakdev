@@ -1,1 +1,331 @@
-{"sections":{"section_hero_bkxrmr":{"type":"section-hero","blocks":{"heading_rQmDhk":{"type":"heading","settings":{"title":"KIMPOP x Montana","heading_size":7}},"text_YkQxbn":{"type":"text","settings":{"description":"Shop 6 Bold Designs Now","text_size":5,"text_style":"font-body"}},"button_KCNC4V":{"type":"button","settings":{"link_text":"Discover KIMPOP","link":"","button_type":"btn--primary","button_size":"","button_style":"btn--solid","show_arrow":false}}},"block_order":["heading_rQmDhk","text_YkQxbn","button_KCNC4V"],"settings":{"height":"screen-height-three-quarters","width":"wrapper--full","image_1":"shopify:\/\/shop_images\/Teak-KIMPOP_MOntana-Launch-hp-banner_9984e1ab-6ef1-47aa-b922-3506ff9cd046.webp","image_2":"shopify:\/\/shop_images\/Teak-HOUE-promotion-banner.webp","link":"","mobile_height":"screen-height-three-quarters--mobile","flex_align_desktop":"align--bottom-left-desktop","flex_align_mobile":"align--middle-center-mobile","overlay_opacity":35,"overlay_color":"#000000","show_overlay_text":false,"bg_color":"","color":"#ffffff","show_placeholder":true,"padding_top":0,"padding_bottom":0}},"section_double_nnKHj3":{"type":"section-double","blocks":{"heading_icQith":{"type":"heading","settings":{"title":"The spring favorite that keeps selling out","text_size":5,"padding_bottom":16}},"buttons_JQAhXR":{"type":"buttons","settings":{"button_text":"Shop Now","button_url":"","button_type":"btn--primary","button_size":"","button_style":"btn--solid","show_arrow":false,"padding_bottom":16}}},"block_order":["heading_icQith","buttons_JQAhXR"],"settings":{"layout":"is-reversed","height":"image-height","mobile_height":"screen-height-one-half--mobile","width":"wrapper--full","image_1":"shopify:\/\/shop_images\/2023_09_Hem_Stockholm_Erik_Wahlstrom_21.webp","image_width":"one-half","text_alignment":"text-left","reverse_blocks":false,"bg_color":"#faf6e0","color":"","show_placeholder":true,"padding_top":50,"padding_bottom":50}},"section_collection_LitpDp":{"type":"section-collection","settings":{"heading":"Shop Our Best Sellers","description":"","layout":"inline","link_text":"See What’s Trending Now >","link_url":"","button_type":"btn--black","button_size":"","button_style":"btn--outline","show_arrow":false,"featured_collection":"living-room","layout_desktop":"grid","grid":4,"rows":1,"width":"wrapper","layout_mobile":"slider","bg_color":"","color":"","padding_top":50,"padding_bottom":50}},"section_text_row_mfcKfP":{"type":"section-text-row","blocks":{"icon_tgqAPW":{"type":"icon","settings":{"icon_name":"icon-shield","icon_size":80,"icon_color":"#545454","image":"shopify:\/\/shop_images\/noun-scandinavian-cross-248102.webp","title":"Authentic Scandinavian Design","heading_size":4,"text":"<p>Partnering with over 75 artisan brands across Nordic countries, Teak New York brings the essence of authentic Scandinavian design to your home.<br\/><br\/><\/p>","text_size":3}},"icon_BTBgBV":{"type":"icon","settings":{"icon_name":"icon-trophy","icon_size":80,"icon_color":"#545454","image":"shopify:\/\/shop_images\/noun-wood-7500069.webp","title":"Craftsmanship","heading_size":4,"text":"<p>All products are meticulously curated by our team, emphasizing exceptional craftsmanship and the use of high-quality natural materials.<br\/><br\/><\/p>","text_size":3}},"icon_BmWYUG":{"type":"icon","settings":{"icon_name":"icon-chat","icon_size":80,"icon_color":"#545454","image":"shopify:\/\/shop_images\/noun-sustainability-6701807.webp","title":"Sustainability","heading_size":4,"text":"<p>We prioritize sustainability by partnering with brands committed to ethical and eco-conscious practices. Our designs are built to last, reducing waste and ensuring long-term enjoyment.<br\/><br\/><\/p>","text_size":3}}},"block_order":["icon_tgqAPW","icon_BTBgBV","icon_BmWYUG"],"settings":{"title":"Teak New York: Scandinavian Design for Modern Living","heading_size":6,"layout":"grid","grid":3,"align_heading":"text-center","align_text":"text-left","icon_alignment":"icon--top","align_columns":"flex-align-center","width":"wrapper--full-padded","bg_color":"#ece6e6","color":"","padding_top":50,"padding_bottom":50,"layout_mobile":"slider"}},"section_hero_mGAhnA":{"type":"section-hero","blocks":{"heading_VeCyTg":{"type":"heading","settings":{"title":"TEAK New York Showroom","heading_size":7}},"text_6rFPWJ":{"type":"text","settings":{"description":"Visit us in person at 34 Norman Avenue in Greenpoint, Brooklyn","text_size":5,"text_style":"font-body"}}},"block_order":["heading_VeCyTg","text_6rFPWJ"],"settings":{"height":"four-fifty-height-hero","width":"wrapper--full","image_1":"shopify:\/\/shop_images\/Teak_showrrom.webp","image_2":"shopify:\/\/shop_images\/Fabu_house_banner.webp","link":"","mobile_height":"screen-height-three-quarters--mobile","flex_align_desktop":"align--bottom-left-desktop","flex_align_mobile":"align--middle-center-mobile","overlay_opacity":10,"overlay_color":"#000000","show_overlay_text":false,"bg_color":"","color":"#ffffff","show_placeholder":true,"padding_top":0,"padding_bottom":0}},"section_collection_zGjLh7":{"type":"section-collection","settings":{"heading":"Most-Loved in the Showroom","description":"<p>Cherished by many, adored in person<br\/><br\/><\/p>","layout":"inline","link_text":"Shop Favorites >","link_url":"","button_type":"btn--black","button_size":"","button_style":"btn--outline","show_arrow":false,"featured_collection":"home-office","layout_desktop":"grid","grid":4,"rows":1,"width":"wrapper","layout_mobile":"slider","bg_color":"","color":"","padding_top":50,"padding_bottom":50}},"section_double_YWm7bY":{"type":"section-double","blocks":{"image_KVgWYN":{"type":"image","settings":{"image_width":100,"padding_bottom":16}},"image_Hr86A3":{"type":"image","settings":{"image_width":100,"padding_bottom":16}}},"block_order":["image_KVgWYN","image_Hr86A3"],"settings":{"layout":"","height":"screen-height-three-quarters","mobile_height":"screen-height-one-half--mobile","width":"wrapper--full","image_width":"one-half","text_alignment":"text-left","reverse_blocks":false,"bg_color":"","color":"","show_placeholder":true,"padding_top":0,"padding_bottom":0}}},"order":["section_hero_bkxrmr","section_double_nnKHj3","section_collection_LitpDp","section_text_row_mfcKfP","section_hero_mGAhnA","section_collection_zGjLh7","section_double_YWm7bY"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "section_hero_bkxrmr": {
+      "type": "section-hero",
+      "blocks": {
+        "heading_rQmDhk": {
+          "type": "heading",
+          "settings": {
+            "title": "KIMPOP x Montana",
+            "heading_size": 7
+          }
+        },
+        "text_YkQxbn": {
+          "type": "text",
+          "settings": {
+            "description": "Shop 6 Bold Designs Now",
+            "text_size": 5,
+            "text_style": "font-body"
+          }
+        },
+        "button_KCNC4V": {
+          "type": "button",
+          "settings": {
+            "link_text": "Discover KIMPOP",
+            "link": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_rQmDhk",
+        "text_YkQxbn",
+        "button_KCNC4V"
+      ],
+      "settings": {
+        "height": "screen-height-three-quarters",
+        "width": "wrapper--full",
+        "image_1": "shopify://shop_images/Teak-KIMPOP_MOntana-Launch-hp-banner_9984e1ab-6ef1-47aa-b922-3506ff9cd046.webp",
+        "image_2": "shopify://shop_images/Teak-HOUE-promotion-banner.webp",
+        "link": "",
+        "mobile_height": "screen-height-three-quarters--mobile",
+        "flex_align_desktop": "align--bottom-left-desktop",
+        "flex_align_mobile": "align--middle-center-mobile",
+        "overlay_opacity": 35,
+        "overlay_color": "#000000",
+        "show_overlay_text": false,
+        "bg_color": "",
+        "color": "#ffffff",
+        "show_placeholder": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "section_double_nnKHj3": {
+      "type": "section-double",
+      "blocks": {
+        "heading_icQith": {
+          "type": "heading",
+          "settings": {
+            "title": "The spring favorite that keeps selling out",
+            "text_size": 5,
+            "padding_bottom": 16
+          }
+        },
+        "buttons_JQAhXR": {
+          "type": "buttons",
+          "settings": {
+            "button_text": "Shop Now",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false,
+            "padding_bottom": 16
+          }
+        }
+      },
+      "block_order": [
+        "heading_icQith",
+        "buttons_JQAhXR"
+      ],
+      "settings": {
+        "layout": "is-reversed",
+        "height": "image-height",
+        "mobile_height": "screen-height-one-half--mobile",
+        "width": "wrapper--full",
+        "image_1": "shopify://shop_images/2023_09_Hem_Stockholm_Erik_Wahlstrom_21.webp",
+        "image_width": "one-half",
+        "text_alignment": "text-left",
+        "reverse_blocks": false,
+        "bg_color": "#faf6e0",
+        "color": "",
+        "show_placeholder": true,
+        "padding_top": 50,
+        "padding_bottom": 50
+      }
+    },
+    "section_collection_LitpDp": {
+      "type": "section-collection",
+      "settings": {
+        "heading": "Shop Our Best Sellers",
+        "description": "",
+        "layout": "inline",
+        "link_text": "See What’s Trending Now >",
+        "link_url": "",
+        "button_type": "btn--black",
+        "button_size": "",
+        "button_style": "btn--outline",
+        "show_arrow": false,
+        "featured_collection": "living-room",
+        "layout_desktop": "grid",
+        "grid": 4,
+        "rows": 1,
+        "width": "wrapper",
+        "layout_mobile": "slider",
+        "bg_color": "",
+        "color": "",
+        "padding_top": 50,
+        "padding_bottom": 50
+      }
+    },
+    "section_text_row_mfcKfP": {
+      "type": "section-text-row",
+      "blocks": {
+        "icon_tgqAPW": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "icon-shield",
+            "icon_size": 80,
+            "icon_color": "#545454",
+            "image": "shopify://shop_images/noun-scandinavian-cross-248102.webp",
+            "title": "Authentic Scandinavian Design",
+            "heading_size": 4,
+            "text": "<p>Partnering with over 75 artisan brands across Nordic countries, Teak New York brings the essence of authentic Scandinavian design to your home.<br/><br/></p>",
+            "text_size": 3
+          }
+        },
+        "icon_BTBgBV": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "icon-trophy",
+            "icon_size": 80,
+            "icon_color": "#545454",
+            "image": "shopify://shop_images/noun-wood-7500069.webp",
+            "title": "Craftsmanship",
+            "heading_size": 4,
+            "text": "<p>All products are meticulously curated by our team, emphasizing exceptional craftsmanship and the use of high-quality natural materials.<br/><br/></p>",
+            "text_size": 3
+          }
+        },
+        "icon_BmWYUG": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "icon-chat",
+            "icon_size": 80,
+            "icon_color": "#545454",
+            "image": "shopify://shop_images/noun-sustainability-6701807.webp",
+            "title": "Sustainability",
+            "heading_size": 4,
+            "text": "<p>We prioritize sustainability by partnering with brands committed to ethical and eco-conscious practices. Our designs are built to last, reducing waste and ensuring long-term enjoyment.<br/><br/></p>",
+            "text_size": 3
+          }
+        }
+      },
+      "block_order": [
+        "icon_tgqAPW",
+        "icon_BTBgBV",
+        "icon_BmWYUG"
+      ],
+      "settings": {
+        "title": "Teak New York: Scandinavian Design for Modern Living",
+        "heading_size": 6,
+        "layout": "grid",
+        "grid": 3,
+        "align_heading": "text-center",
+        "align_text": "text-left",
+        "icon_alignment": "icon--top",
+        "align_columns": "flex-align-center",
+        "width": "wrapper--full-padded",
+        "bg_color": "#ece6e6",
+        "color": "",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "layout_mobile": "slider"
+      }
+    },
+    "section_hero_mGAhnA": {
+      "type": "section-hero",
+      "blocks": {
+        "heading_VeCyTg": {
+          "type": "heading",
+          "settings": {
+            "title": "TEAK New York Showroom",
+            "heading_size": 7
+          }
+        },
+        "text_6rFPWJ": {
+          "type": "text",
+          "settings": {
+            "description": "Visit us in person at 34 Norman Avenue in Greenpoint, Brooklyn",
+            "text_size": 5,
+            "text_style": "font-body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_VeCyTg",
+        "text_6rFPWJ"
+      ],
+      "settings": {
+        "height": "four-fifty-height-hero",
+        "width": "wrapper--full",
+        "image_1": "shopify://shop_images/Teak_showrrom.webp",
+        "image_2": "shopify://shop_images/Fabu_house_banner.webp",
+        "link": "",
+        "mobile_height": "screen-height-three-quarters--mobile",
+        "flex_align_desktop": "align--bottom-left-desktop",
+        "flex_align_mobile": "align--middle-center-mobile",
+        "overlay_opacity": 10,
+        "overlay_color": "#000000",
+        "show_overlay_text": false,
+        "bg_color": "",
+        "color": "#ffffff",
+        "show_placeholder": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "section_collection_zGjLh7": {
+      "type": "section-collection",
+      "settings": {
+        "heading": "Most-Loved in the Showroom",
+        "description": "<p>Cherished by many, adored in person<br/><br/></p>",
+        "layout": "inline",
+        "link_text": "Shop Favorites >",
+        "link_url": "",
+        "button_type": "btn--black",
+        "button_size": "",
+        "button_style": "btn--outline",
+        "show_arrow": false,
+        "featured_collection": "home-office",
+        "layout_desktop": "grid",
+        "grid": 4,
+        "rows": 1,
+        "width": "wrapper",
+        "layout_mobile": "slider",
+        "bg_color": "",
+        "color": "",
+        "padding_top": 50,
+        "padding_bottom": 50
+      }
+    },
+    "magazine_style_collection_grid_jRLKLE": {
+      "type": "Magazine-Style-Collection-Grid",
+      "blocks": {
+        "collection_rJ8c9p": {
+          "type": "collection",
+          "settings": {
+            "collection": "kitchen-dining",
+            "image": "shopify://shop_images/Teak_showrrom.webp",
+            "title": "Furniture"
+          }
+        },
+        "collection_3gH8Py": {
+          "type": "collection",
+          "settings": {
+            "collection": "living-room",
+            "image": "shopify://shop_images/montana_homepage.webp",
+            "title": "LIghting"
+          }
+        },
+        "collection_jNiwhq": {
+          "type": "collection",
+          "settings": {
+            "collection": "living-room",
+            "image": "shopify://shop_images/2021_April_Hem_Erik_Lefvander_02_099_web.webp",
+            "title": "Home decor"
+          }
+        },
+        "collection_YnEYf7": {
+          "type": "collection",
+          "settings": {
+            "collection": "shop-by-room",
+            "image": "shopify://shop_images/2022_210006_201982_201946_201936_201990_201957_210009-min_1800x1800_91a966fe-3a7b-4e44-9642-5b2104295792.webp",
+            "title": "Art"
+          }
+        },
+        "collection_KB3eWL": {
+          "type": "collection",
+          "settings": {
+            "collection": "kitchen-dining",
+            "image": "shopify://shop_images/2022_brandphoto_201922_201972_201957_201961_201963_201936_201902_201340_201971_201982_201907_201346_201985_201906_7_-min_1800x1800_9384018c-6ce1-4219-91f5-78ef0a1f9569.webp",
+            "title": "LIfestyle"
+          }
+        }
+      },
+      "block_order": [
+        "collection_rJ8c9p",
+        "collection_3gH8Py",
+        "collection_jNiwhq",
+        "collection_YnEYf7",
+        "collection_KB3eWL"
+      ],
+      "settings": {
+        "Subheading": "Shop by",
+        "heading": "Category"
+      }
+    }
+  },
+  "order": [
+    "section_hero_bkxrmr",
+    "section_double_nnKHj3",
+    "section_collection_LitpDp",
+    "section_text_row_mfcKfP",
+    "section_hero_mGAhnA",
+    "section_collection_zGjLh7",
+    "magazine_style_collection_grid_jRLKLE"
+  ]
+}
