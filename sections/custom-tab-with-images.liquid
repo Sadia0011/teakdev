@@ -7,13 +7,13 @@
 
 <style>
 
-.wrapper{
+.tab-wrapper{
     position: relative;
     max-width: 90%;
     height: 100vh;
     padding: 0;
 }
-.wrapper img{
+.tab-wrapper img{
     width:100%;
     height:100%;
     position:absolute;
@@ -90,7 +90,7 @@
     <a href="#" data-image="{{ section.settings.third_image | img_url: 'master' }}" class="tab ">Alvar Aalto</a>
 
 </div>
-<div class="wrapper">
+<div class="tab-wrapper">
     <img id="first" src="{{ section.settings.first_image | img_url: 'master' }}">
 </div>
 </div>
