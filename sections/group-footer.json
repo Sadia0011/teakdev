@@ -14,20 +14,14 @@
     "footer": {
       "type": "footer",
       "blocks": {
-        "footer-0": {
-          "type": "newsletter",
+        "text_FVPMce": {
+          "type": "text",
           "settings": {
-            "title": "Newsletter",
-            "text": "<p>Subscribe to get special offers, free giveaways, and once-in-a-lifetime deals.</p>",
-            "show_name": true,
-            "button_text": "Join",
-            "show_arrow": false,
-            "terms": true,
-            "button_type": "btn--black",
-            "button_size": "",
-            "button_style": "btn--solid",
-            "show_social_links": false,
-            "column_width": 33
+            "image_width": 150,
+            "title": "teak",
+            "text": "<p>Scandinavian Lifestyle Design Store<br/><br/></p>",
+            "column_width": 25,
+            "enable_accordion": false
           }
         },
         "footer-1": {
@@ -35,7 +29,16 @@
           "settings": {
             "linklist": "main-menu",
             "title": "",
-            "column_width": 33,
+            "column_width": 20,
+            "enable_accordion": false
+          }
+        },
+        "linklist_Cea8Df": {
+          "type": "linklist",
+          "settings": {
+            "linklist": "main-menu",
+            "title": "",
+            "column_width": 25,
             "enable_accordion": false
           }
         },
@@ -43,17 +46,35 @@
           "type": "text",
           "settings": {
             "image_width": 150,
-            "title": "Contact",
-            "text": "<p>1234 Main Street <br>New York, NY 12345 <br> 123.456.7890<br>help@broadcast.com</p>",
-            "column_width": 33,
+            "title": "Need a Fika Break?",
+            "text": "<p>Visit Falu House, our in-</p><p>house Scandinavian Deli </p><p>for coffee, Swedish </p><p>pastries and more!<br/><br/>Mon–Sun: 8 am – 5 pm<br/><br/></p>",
+            "column_width": 20,
             "enable_accordion": false
+          }
+        },
+        "newsletter_ebHMk3": {
+          "type": "newsletter",
+          "settings": {
+            "title": "Sign up for our newsletter",
+            "text": "<p>Sign up to get the latest on new products, promotions, and home decor inspo.<br/><br/></p>",
+            "show_name": false,
+            "button_text": "Subscribe",
+            "show_arrow": false,
+            "terms": true,
+            "button_type": "btn--white",
+            "button_size": "",
+            "button_style": "btn--text",
+            "show_social_links": false,
+            "column_width": 100
           }
         }
       },
       "block_order": [
-        "footer-0",
+        "text_FVPMce",
         "footer-1",
-        "footer-2"
+        "linklist_Cea8Df",
+        "footer-2",
+        "newsletter_ebHMk3"
       ],
       "custom_css": [
         "footer {background-color: black; color: white;}"
@@ -61,7 +82,7 @@
       "settings": {
         "logo": "{{ shop.brand.logo }}",
         "logo_image_width": 150,
-        "border_color": "#212121",
+        "border_color": "#ffffff",
         "padding_top": 75,
         "padding_bottom": 30
       }
