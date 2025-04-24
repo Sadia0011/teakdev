@@ -1,0 +1,121 @@
+<style>
+  .collection-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    /* grid-auto-rows: 300px; */
+    gap: 10px;
+ 
+    
+  }
+  .collection-block {
+    position: relative;
+    background-size: cover;
+    background-position: center;
+    color: white;
+    font-weight: bold;
+    display: flex;
+    align-items: flex-end;
+    padding: 1rem;
+    font-size: 1.5rem;
+    text-shadow: 0 0 5px rgba(0,0,0,0.6);
+  }
+  .collection-block:first-child {
+    grid-row: span 2;
+  }
+  .collection-title{
+    position: absolute;
+    top: 1rem;
+    left: 1rem;
+
+  }
+  .collection-grid-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  @media (max-width: 768px) {
+    .collection-grid {
+      grid-template-columns: 1fr;
+    }
+    .collection-block:first-child {
+      grid-row: auto;
+    }
+  }
+</style>
+<div class="wrapper--full-padded">
+    <div class="collection-grid-header">
+        <div>
+            <p>{{ section.settings.Subheading }}</p>
+            <h3>{{ section.settings.heading }}</h3>
+        </div>
+    <div>
+        <a href="/collections/all">Explore all</a>
+    </div>
+
+</div>
+<div class="collection-grid">
+   
+  {% for block in section.blocks %}
+    <a 
+      class="collection-block" 
+      href="{{ block.settings.collection.url }}" 
+      style="background-image: url({{ block.settings.image | img_url: 'master' }});"
+    >
+      <span class="collection-title">{{ block.settings.title }}</span>
+    </a>
+  {% endfor %}
+</div>
+</div>
+
+{% schema %}
+{
+  "name": "Magazine Grid",
+  "settings": [
+    {
+        "type": "inline_richtext",
+        "id": "Subheading",
+        "label": "Sub-Heading",
+        "default": "Shop by"
+    },
+    {
+        "type": "inline_richtext",
+        "id": "heading",
+        "label": "Heading",
+        "default": "Category"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "collection",
+      "name": "Collection Block",
+      "settings": [
+        {
+          "type": "collection",
+          "id": "collection",
+          "label": "Select collection"
+        },
+        {
+          "type": "image_picker",
+          "id": "image",
+          "label": "Background image"
+        },
+        {
+          "type": "text",
+          "id": "title",
+          "label": "Collection Title",
+          "default": "Collection Name"
+        }
+      ]
+    }
+  ],
+  "max_blocks": 6,
+  "presets": [
+    {
+      "name": "Magazine Grid",
+      "blocks": [
+        { "type": "collection" }
+      ]
+    }
+  ]
+}
+{% endschema %}
