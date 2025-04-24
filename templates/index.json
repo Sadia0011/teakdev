@@ -318,6 +318,51 @@
         "heading": "Category"
       }
     },
+    "section_hero_8VhgHL": {
+      "type": "section-hero",
+      "blocks": {
+        "heading_MimPFT": {
+          "type": "heading",
+          "settings": {
+            "title": "The Teddy Sofa",
+            "heading_size": 7
+          }
+        },
+        "button_r6JUfJ": {
+          "type": "button",
+          "settings": {
+            "link_text": "Shop Teddy Sofa",
+            "link": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_MimPFT",
+        "button_r6JUfJ"
+      ],
+      "settings": {
+        "height": "screen-height-three-quarters",
+        "width": "wrapper--full",
+        "image_1": "shopify://shop_images/teddy_badge_homepage_53691229-5d23-48cd-89a8-e73cb37c3c56.webp",
+        "image_2": "shopify://shop_images/montana_homepage.webp",
+        "link": "",
+        "mobile_height": "screen-height-three-quarters--mobile",
+        "flex_align_desktop": "align--bottom-left-desktop",
+        "flex_align_mobile": "align--middle-center-mobile",
+        "overlay_opacity": 10,
+        "overlay_color": "#000000",
+        "show_overlay_text": false,
+        "bg_color": "",
+        "color": "#ffffff",
+        "show_placeholder": true,
+        "padding_top": 50,
+        "padding_bottom": 0
+      }
+    },
     "custom_tab_with_images_x3AUEE": {
       "type": "custom-tab-with-images",
       "settings": {
@@ -339,6 +384,7 @@
     "section_hero_mGAhnA",
     "section_collection_zGjLh7",
     "magazine_style_collection_grid_jRLKLE",
+    "section_hero_8VhgHL",
     "custom_tab_with_images_x3AUEE"
   ]
 }
