@@ -80,9 +80,11 @@
   <h2 class="custom-tab-title">
     {{ section.settings.title }}
   </h2>
-  <p class="custom-tab-sub-title">
+  {% if section.settings.subtitle %}
+    <p class="custom-tab-sub-title">
     {{ section.settings.subtitle }}
   </p>
+  {% endif %}
 </div>
 
     <div class="custom-tab">
